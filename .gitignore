@@ -1,5 +1,12 @@
 # Dataset (download from Roboflow - see README)
 Pill.v1i.yolov8/
 
+# Model weights (yolov8n.pt auto-downloaded by Ultralytics if missing)
+yolov8n.pt
+yolo26n.pt
+
+# Calibration data for TFLite quantization (generated)
+calibration_image_sample_data_20x128x128x3_float32.npy
+
 # Training outputs (weights, logs, checkpoints)
 runs/
