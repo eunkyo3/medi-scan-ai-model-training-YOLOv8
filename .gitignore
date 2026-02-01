@@ -1,0 +1,5 @@
+# Dataset (download from Roboflow - see README)
+Pill.v1i.yolov8/
+
+# Training outputs (weights, logs, checkpoints)
+runs/
